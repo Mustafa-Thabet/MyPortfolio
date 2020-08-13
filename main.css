@@ -231,6 +231,7 @@ transform : rotate( -450deg) translateX(0.8rem);
 .profile-img {
     flex: 1;
     margin-right:5rem;
+    width:80%
 }
 .about-details {
     flex:1;
